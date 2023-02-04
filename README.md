@@ -4,7 +4,7 @@ Our BACF_ HMC algorithm code will be updated upon notification of the results of
 
 ### Citation
 
-If you find the code and dataset useful in your research, please consider citing:
+If you find the code useful in your research, please consider citing:
 
 ```
 @article{
